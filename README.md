@@ -1,16 +1,8 @@
-# meu_app
+# Mirty
 
-A new Flutter project.
+O mirty surgiu como uma iniciativa gratuita durante a feira cientifica SEMCITEC da escola EEEP Presidente Roosevelt. Onde eu e minha equipe decidimos criar um aplicativo ludico para auxiliar pessoas durante crises de ansiedade e os ajudar a entender sobre esse momento dificil e que tantos adolescentes passam todos os dias. 
 
-## Getting Started
+## Descrição
+O aplicativo ainda está em desenvolvimento inicial, esse é apenas o primeiro modelo que estou criando para iniciar essa jornada junto a minha equipe de criar esse app. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
